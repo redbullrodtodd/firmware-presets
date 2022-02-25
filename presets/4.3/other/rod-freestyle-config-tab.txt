@@ -5,6 +5,7 @@
 #$ KEYWORDS:  configuration, config, tab, rodtodd
 #$ AUTHOR: RodTodd
 #$ DESCRIPTION: Base Settings for 4.3 Configuration Tab
+#$ FORCE_OPTIONS_REVIEW: TRUE
 
 #$ OPTION_GROUP BEGIN: Name Options
 #$ OPTION BEGIN (UNCHECKED): Name STORMAGEDDON

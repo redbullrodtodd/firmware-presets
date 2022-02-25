@@ -761,7 +761,7 @@
     },
     {
       "fullPath": "presets/4.3/other/rod-freestyle-config-tab.txt",
-      "hash": "92dbf8a609ae03f91e366ee036def6358176aa5750a2278cfae330b1201adcdb",
+      "hash": "d8807d21627f3fce2bcf25b120ab0381277658d5ddfedeae3b86ea4b15649427",
       "title": "Rod Configuration Tab Settings",
       "firmware_version": [
         "4.3"
@@ -775,6 +775,7 @@
         "rodtodd"
       ],
       "author": "RodTodd",
+      "force_options_review": true,
       "priority": 0
     },
     {
