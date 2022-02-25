@@ -141,77 +141,37 @@
       "VTX"
     ],
     "author": [
-      "Alex Campbell (Chief)",
       "Alex Vanover",
-      "AyyyKayyy - Anthony Knight",
       "Betaflight",
-      "BMSThomas",
       "ctzsnooze",
-      "Directory",
-      "DusKing1 (Hugo Chiang), Pitronic",
       "Evan Turner (Headsup)",
-      "Feisar",
-      "FPVian",
-      "Garban",
-      "IllusionFpv",
       "Ivan Efimov (Limon)",
       "Joshua Bardwell",
-      "Justice - Gary Kent",
-      "Jye Smith",
       "Mark Spatz (UAV Tech)",
-      "MinChan Kim",
-      "NemesisXB",
+      "RodTodd",
       "Sjoer van der Ploeg",
       "sugarK",
-      "SupaflyFPV",
       "UAV Tech (Mark Spatz)"
     ],
     "keywords": [
-      "\\\\GAS",
       "150Hz",
-      "1S",
       "250Hz",
-      "3 inch",
-      "3\"",
-      "3in",
-      "4in",
-      "4S",
-      "5 In",
-      "5 Inch",
       "5\"",
       "500Hz",
       "50Hz",
       "533",
-      "5in",
-      "6 Inch",
-      "6\"",
-      "65mm",
       "666Hz",
-      "6S",
-      "7 Inch",
-      "7\"",
-      "acro",
-      "Acrobaix",
       "actual",
       "adjustments",
       "aggressive",
-      "AlexFPV",
       "aux",
-      "AyyyKayyy",
-      "bando",
       "bardwell",
-      "basher",
       "basic",
       "betaflight",
       "blackbox",
-      "BMI270",
-      "BMSThomas",
-      "brushless",
       "camera",
       "camera_control",
       "cfv2",
-      "Cgo",
-      "Chief",
       "cinematic",
       "clean",
       "clear",
@@ -219,67 +179,49 @@
       "crossfire",
       "CRSF",
       "ctzsnooze",
-      "CTZsoonze",
-      "DDC",
       "default",
       "defaults",
-      "diatone",
       "disable",
       "divimath",
       "DJI",
       "DShot telemetry",
-      "E7082VM",
       "ELRS",
       "emax",
       "EVO",
       "expert",
       "express",
       "feedforward",
-      "feisar",
       "ff",
       "filter",
       "filtering",
       "filters",
       "five33",
-      "fpvian",
       "freedom",
       "freedom spec",
       "freestyle",
       "freestyle_HD",
-      "freesytle",
       "frsky",
-      "Garban",
       "ghost",
       "GHST",
       "GPS",
-      "gyro",
-      "gyros",
-      "gyroscope",
       "HD",
       "HD_freestyle",
       "HDzero",
       "Headsup",
       "hot",
       "HV",
-      "IllusionFpv",
       "immersion",
       "immersionRC",
       "IRC",
       "jitter",
-      "justice",
-      "karate",
-      "KarateBrot",
       "launch",
       "launch_mode",
       "leds",
-      "Limon",
+      "limon",
       "link",
       "log",
       "logging",
       "longrange",
-      "mamba",
-      "meteor",
-      "MinChan",
       "mode",
       "modes",
       "MultiGP",
@@ -289,21 +231,13 @@
       "no rpm",
       "noisy",
       "normal",
-      "OP400",
-      "OpenRacer",
-      "OpenVTx",
       "OSD",
-      "OVX300",
-      "OVX303",
       "partial",
       "pid",
       "pro32",
       "profile",
       "purerace",
-      "quaddiction",
-      "quick",
       "race",
-      "race rates ctzsnooze actual",
       "race250",
       "race500",
       "racing",
@@ -316,11 +250,7 @@
       "Redpine",
       "reset",
       "reset statistics",
-      "RPM",
-      "rush",
-      "rush tank",
-      "rushfpv",
-      "russia",
+      "rpm",
       "sa",
       "SA 2.0",
       "SA 2.0 lite",
@@ -329,40 +259,21 @@
       "sa20",
       "sbus",
       "SBUS fast",
-      "settings",
-      "shames",
       "shark bite",
       "smartaudio",
       "smooth",
       "smoothing",
       "soild250",
       "some",
-      "spec",
-      "speedybee",
       "stats",
-      "suagrK",
       "sugarK",
-      "Supafly",
-      "SupaflyFPV",
       "switch",
-      "tank solo",
-      "tank ultimate",
       "TBS",
-      "texas",
-      "tiny",
-      "tiny tank",
-      "tinyTrainer",
       "tracer",
-      "trainer",
-      "TRAMP",
       "transition",
       "transmitter",
       "tune",
-      "twig",
-      "tx800",
       "UAV Tech",
-      "ultra",
-      "ultra 1000",
       "unify",
       "unify pro",
       "vanover",
@@ -372,54 +283,10 @@
       "vtx",
       "vtx table",
       "vtxtable",
-      "whoop",
-      "whooptopia",
-      "world champion",
       "youtube"
     ]
   },
   "presets": [
-    {
-      "fullPath": "presets/4.3/filters/BMI270.txt",
-      "hash": "af69e3c94ef3dcdd2fca5906292a0dbcf4e4ac1cf74a35860d379cd9e5436c4f",
-      "title": "4.3 Filter settings for BMI270 gyroscope",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "BMI270",
-        "filter",
-        "filters",
-        "gyroscope",
-        "gyro",
-        "gyros",
-        "settings",
-        "RPM"
-      ],
-      "author": "DusKing1 (Hugo Chiang), Pitronic",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/ctzsnooze_race.txt",
-      "hash": "751a6f316eb81fd94215291eb35b719cc52d9ca66baa53668d495f8351e1156c",
-      "title": "ctzsnooze's race filter settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "race",
-        "filter",
-        "filters",
-        "ctzsnooze",
-        "RPM"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
     {
       "fullPath": "presets/4.3/filters/defaults.txt",
       "hash": "cd9af0626bc1e8be0738e39995b8d77b0494ee78b83815d4dab261d66c5ae5fd",
@@ -667,29 +534,6 @@
       "priority": 100
     },
     {
-      "fullPath": "presets/4.3/filters/karate_array.txt",
-      "hash": "7d4913bf9839cc9bb055ab942a22c3c015a2f258e30633a07edcaaf98eb85df0",
-      "title": "the Karate array",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "karate",
-        "race",
-        "freesytle",
-        "suagrK",
-        "CTZsoonze",
-        "KarateBrot",
-        "5\""
-      ],
-      "author": "sugarK",
-      "priority": 100
-    },
-    {
       "fullPath": "presets/4.3/leds/defaults.txt",
       "hash": "c1dc1b69bd7b001253f05b56f3f6c3d60e93615c718f30a3b815846f445d1f6c",
       "title": "Default 4.3 LED settings",
@@ -728,14 +572,14 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/modes/RodFreeStyle.txt",
-      "hash": "16a19e27a46efcd9f86d56f17e8fe82356921399cc0c5502e257e33ef8c321c3",
-      "title": "Default 4.3 Modes and Adjustment settings",
+      "fullPath": "presets/4.3/modes/rodfreestyle.txt",
+      "hash": "397bc1e2f04870e42b8af0c78ebd9ce1709f19fe189aa5f6e6520d641a048a7a",
+      "title": "RodTodd Freestyle 4.3 Modes and Adjustment settings",
       "firmware_version": [
-        "4.3"
+        "4.2"
       ],
       "category": "MODES",
-      "status": "OFFICIAL",
+      "status": "COMMUNITY",
       "keywords": [
         "defaults",
         "reset",
@@ -745,7 +589,7 @@
         "aux",
         "switch"
       ],
-      "author": "Betaflight",
+      "author": "RodTodd",
       "priority": 0
     },
     {
@@ -929,78 +773,6 @@
       "priority": 10000
     },
     {
-      "fullPath": "presets/4.3/rates/BMSThomas.txt",
-      "hash": "b7475cbcf6113cc01385f282c8d85bfee258cc7256aabdb9d995fcbaa6304cb5",
-      "title": "BMSThomas racing/freestyle rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "BMSThomas",
-        "rates",
-        "MultiGP"
-      ],
-      "author": "BMSThomas",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/CGo.txt",
-      "hash": "0dfc7151103bda6cae83aa843512857906e31fb16ba408c11cc7840a34c8ebf8",
-      "title": "CGo race rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "rates",
-        "MultiGP",
-        "quaddiction",
-        "Cgo"
-      ],
-      "author": "sugarK",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Chief.txt",
-      "hash": "91a2eb51e96dae61376a4b218476c024ff8410c697af7252060dbf880a6c020d",
-      "title": "Chief race/freestyle rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "race",
-        "Chief",
-        "AlexFPV",
-        "racing",
-        "\\\\GAS",
-        "freestyle"
-      ],
-      "author": "Alex Campbell (Chief)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/ctzsnooze_race.txt",
-      "hash": "c580ff16eac1b602195f1194caff3da0476d55c9bc7e527f7b0ba8b67774c24b",
-      "title": "race rates by ctzsnooze",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "race rates ctzsnooze actual"
-      ],
-      "author": "ctzsnooze",
-      "priority": 10000
-    },
-    {
       "fullPath": "presets/4.3/rates/defaults.txt",
       "hash": "9d063433102e8340d3d0ad396f6dc998c7030c0b9ecc4bb2a6c5b86a5def07fe",
       "title": "Default rates",
@@ -1016,57 +788,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rates/Directory_freestyle.txt",
-      "hash": "2478b869e459450024e482488d4fa3103528d449db747f48e2e873eb18d77a9c",
-      "title": "Directory freestyle rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "freestyle"
-      ],
-      "author": "Directory",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Feisar_freestyle.txt",
-      "hash": "e5ecd4c804d9c099c7c8b99c386e484d8bffe32fc748e4ecd55d17e74297f5c1",
-      "title": "Feisar freestyle rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "rates",
-        "betaflight",
-        "feisar"
-      ],
-      "author": "Feisar",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Garban_race.txt",
-      "hash": "38458536a284eccd15f779595d9bb18b833ac5b4a6bd2787f0ee51fb88f490b2",
-      "title": "Garban Official race rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "rates",
-        "DDC",
-        "Acrobaix",
-        "Garban"
-      ],
-      "author": "Garban",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rates/Headsup533.txt",
@@ -1086,63 +807,6 @@
         "MultiGP"
       ],
       "author": "Evan Turner (Headsup)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/illusionfpv_freestyle.txt",
-      "hash": "79a4e23fec488266e4e3ac174235d49bf013154b83caf0c8f5e223135be0f5f6",
-      "title": "freestyle rates by IllusionFpv",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "freestyle",
-        "rates",
-        "IllusionFpv",
-        "quick"
-      ],
-      "author": "IllusionFpv",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/limon.txt",
-      "hash": "07372fdf1beee407d23e977a89f414c40dc1aaa620069c46a2b0a51bd49da2a0",
-      "title": "Limon racing rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "racing",
-        "Limon",
-        "OpenRacer",
-        "texas",
-        "russia",
-        "rates",
-        "MultiGP"
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/MinChan.txt",
-      "hash": "2ec0aa7511e5642e28f82211380594a2efbf6e6e801942f1151d2fb5a9658c50",
-      "title": "MinChan Kim racing rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "race",
-        "MinChan",
-        "rates"
-      ],
-      "author": "MinChan Kim",
       "priority": 10000
     },
     {
@@ -1623,29 +1287,6 @@
       "priority": 100000000
     },
     {
-      "fullPath": "presets/4.3/tune/ctzsnooze_5in_4S_race.txt",
-      "hash": "681f93f549f7331f0b4b1e779dff4efa1bbc8d0e33a30f8539ca805d8c8b7766",
-      "title": "4S, 3\" to 5\" race tune by ctzsznooze",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "3in",
-        "4in",
-        "5in",
-        "twig",
-        "4S",
-        "race",
-        "tune",
-        "ctzsnooze"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
       "fullPath": "presets/4.3/tune/defaults.txt",
       "hash": "a34613c8541c3bf5611d5d3596ece890b902fd8d2378e7f6a03b60a59b61230b",
       "title": "Tune defaults for Basic 4.3 TUNES",
@@ -1664,28 +1305,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/tune/fpvian_basher_freestyle.txt",
-      "hash": "03b21087600c46dec99c7c6f6c0dbba6a48011830a5b26e3a3d1c9ea220d4dde",
-      "title": "Basher Freestyle 6S 5\" by FPVian",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "basher",
-        "freestyle",
-        "5 Inch",
-        "5 In",
-        "5\"",
-        "bando",
-        "fpvian"
-      ],
-      "author": "FPVian",
-      "force_options_review": true,
-      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/tune/freedom_spec_460g.txt",
@@ -1710,53 +1329,6 @@
         "5\""
       ],
       "author": "Ivan Efimov (Limon)",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/karate_freestyle_5_inch.txt",
-      "hash": "f01d120cbd51bfee298a8ba8b78d9fb6577fbc20d2b36b699f9215d47135df31",
-      "title": "Freestyle 5\" Karate Style",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "karate",
-        "6S",
-        "5 inch",
-        "5\"",
-        "sugarK",
-        "limon",
-        "ctzsnooze",
-        "karateBrot",
-        "freestyle"
-      ],
-      "author": "sugarK",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/karate_race.txt",
-      "hash": "626e85505453bbfa17c2fa2ad2e87425acea943c6810992619a07382921ed42c",
-      "title": "Karate Race 6s 5\"",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "karate",
-        "6S",
-        "race",
-        "world champion",
-        "5 inch",
-        "5\"",
-        "sugarK",
-        "limon",
-        "ctzsnooze",
-        "karateBrot"
-      ],
-      "author": "sugarK",
       "priority": 1000000000000
     },
     {
@@ -1800,137 +1372,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
-      "hash": "3dc7346f137921b25a16da6b0aa70f500f2c0059edbbb67644f9c79eb94bb9d3",
-      "title": "SupaflyFPV Freestyle 5 Inch",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "Supafly",
-        "SupaflyFPV",
-        "4S",
-        "6S",
-        "Freestyle",
-        "5 inch",
-        "5\""
-      ],
-      "author": "SupaflyFPV",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_6_and_EasyTune.txt",
-      "hash": "62d190dd6030d0f3779e67dcbd24bd9ffa3162bab2a24cc090d9bc6c15432a77",
-      "title": "SupaflyFPV Freestyle 6 Inch",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "Supafly",
-        "SupaflyFPV",
-        "Freestyle",
-        "6\"",
-        "6 Inch"
-      ],
-      "author": "SupaflyFPV",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_7_Inch_EasyTune.txt",
-      "hash": "49fe93d94e826091b38c9260885e3958ec621bccb0e1cd313a7785e62b22b6e9",
-      "title": "SupaflyFPV Freestyle 7 Inch",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "Supafly",
-        "SupaflyFPV",
-        "Freestyle",
-        "7\"",
-        "7 Inch"
-      ],
-      "author": "SupaflyFPV",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/tiny_karate.txt",
-      "hash": "a417f87aae3f44caffc5fbf43a6b538053db73b74a94ecb762a362de739d32c5",
-      "title": "533 TinyTrainer Karate",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "karate",
-        "race",
-        "533",
-        "3 inch",
-        "3\"",
-        "sugarK",
-        "shames",
-        "tiny",
-        "trainer",
-        "spec",
-        "tinyTrainer"
-      ],
-      "author": "sugarK",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/whoop_ayyykayyy.txt",
-      "hash": "18a0a21b675f4c2e4719bae8d448684e58b51981f657755fe4c2f95e7eaea2c7",
-      "title": "Whoop race tune by AyyyKayyy",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "whoop",
-        "65mm",
-        "1S",
-        "race",
-        "acro",
-        "tune",
-        "AyyyKayyy",
-        "meteor",
-        "whooptopia",
-        "brushless"
-      ],
-      "author": "AyyyKayyy - Anthony Knight",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/whoop_justice.txt",
-      "hash": "e380bdf6dd00f9bcce23fa4b10c3bdbd092afead4ffd7cb5a0eb492b5ed5eacc",
-      "title": "Whoop race tune by Justice",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "whoop",
-        "65mm",
-        "1S",
-        "race",
-        "acro",
-        "tune",
-        "justice",
-        "meteor"
-      ],
-      "author": "Justice - Gary Kent",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
       "fullPath": "presets/4.3/vtx/defaults.txt",
       "hash": "f771542d93f15f993d39d97f9004ede104ba7dfebff45f68863aa25f30275388",
       "title": "Default 4.3 VTX settings",
@@ -1965,28 +1406,6 @@
         "vtxtable"
       ],
       "author": "Betaflight",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/diatone_mamba_ultra_1000.txt",
-      "hash": "f058b040995b0054977e5a70298cc26b699ea7c64d825e55fbf55905b3aac74e",
-      "title": "Diatone Mamba Ultra 1000 VTX Tables",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "vtxtable",
-        "diatone",
-        "mamba",
-        "ultra",
-        "ultra 1000"
-      ],
-      "author": "NemesisXB",
       "priority": 1000000
     },
     {
@@ -2030,93 +1449,6 @@
         "sa2.0"
       ],
       "author": "Sjoer van der Ploeg",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/OpenVTx.txt",
-      "hash": "1cbb15ca60cd1392001158a2c73857d7b1481255c09723dcdf1d037bc1edb5fe",
-      "title": "OpenVTx",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "OpenVTx",
-        "TRAMP",
-        "SA 2.1",
-        "E7082VM",
-        "OVX300",
-        "OVX303",
-        "OP400"
-      ],
-      "author": "Jye Smith",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/rush_sa2.1_vtx_tables.txt",
-      "hash": "22aadeaaf187206e8e33fe426586de11dcfb1ea0ef3e56850ff9aabd37078b14",
-      "title": "Rush Tiny Tank, Tank Racing, Tank Ultimate Plus/Mini/II, and Tank Solo VTX tables",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "rush tank",
-        "rush",
-        "rushfpv",
-        "tank ultimate",
-        "tank solo",
-        "tiny tank"
-      ],
-      "author": "Directory",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/speedybee_tx800.txt",
-      "hash": "6fc6fff69555a43b7fb37943479e868403cd571549ea6b4d905c0d633f5968ee",
-      "title": "SpeedyBee TX800 VTX Tables",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "speedybee",
-        "tx800"
-      ],
-      "author": "NemesisXB",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/tramp_nano_and_HV.txt",
-      "hash": "0a496b6215aae4a72cbe0c1c1a3bc5d225609ebf25318c428abd6ad383e9bcfe",
-      "title": "IRC Tramp Nano and HV",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "IRC",
-        "tramp",
-        "HV",
-        "nano"
-      ],
-      "author": "sugarK",
       "priority": 1000000
     },
     {
