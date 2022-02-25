@@ -1,0 +1,31 @@
+#$ TITLE: Rod Configuration Tab Settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OTHER
+#$ STATUS: COMMUNITY
+#$ KEYWORDS:  blackbox, logging, log, disable, sugarK
+#$ AUTHOR: rodtodd
+#$ DESCRIPTION: Base Settings for 4.3 Configuration Tab
+
+
+#$ OPTION BEGIN (UNCHECKED): Name = STORMAGEDDON
+set name = STORMAGEDDON
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): Name = STORM APEX
+set name = STORM APEX
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): Name = STORM APEX DC
+set name = STORM APEX DC
+#$ OPTION END
+
+# feature
+feature -AIRMODE
+
+# beacon
+beacon RX_SET
+
+# master
+set mag_hardware = NONE
+set baro_hardware = NONE
+set small_angle = 180
