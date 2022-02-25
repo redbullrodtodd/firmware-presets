@@ -1,7 +1,7 @@
 #$ TITLE: RodTodd Freestyle 4.3 Modes and Adjustment settings
 #$ FIRMWARE_VERSION: 4.2
 #$ CATEGORY: MODES
-#$ STATUS: TESTING
+#$ STATUS: COMMUNITY
 #$ KEYWORDS: defaults, reset, mode, modes, adjustments, aux, switch
 #$ AUTHOR: RodTodd
 #$ DESCRIPTION: Resets modes and adjustment ranges to 4.3 defaults and then applys RodTodd Freestyle Defaults
