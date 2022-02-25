@@ -2,20 +2,20 @@
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OTHER
 #$ STATUS: COMMUNITY
-#$ KEYWORDS:  blackbox, logging, log, disable, sugarK
-#$ AUTHOR: rodtodd
+#$ KEYWORDS:  configuration, config, tab, rodtodd
+#$ AUTHOR: RodTodd
 #$ DESCRIPTION: Base Settings for 4.3 Configuration Tab
 
 
-#$ OPTION BEGIN (UNCHECKED): Name = STORMAGEDDON
+#$ OPTION BEGIN (UNCHECKED): Name STORMAGEDDON
 set name = STORMAGEDDON
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): Name = STORM APEX
+#$ OPTION BEGIN (UNCHECKED): Name STORM APEX
 set name = STORM APEX
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): Name = STORM APEX DC
+#$ OPTION BEGIN (UNCHECKED): Name STORM APEX DC
 set name = STORM APEX DC
 #$ OPTION END
 
