@@ -175,6 +175,8 @@
       "cinematic",
       "clean",
       "clear",
+      "config",
+      "configuration",
       "control",
       "crossfire",
       "CRSF",
@@ -250,6 +252,7 @@
       "Redpine",
       "reset",
       "reset statistics",
+      "rodtodd",
       "rpm",
       "sa",
       "SA 2.0",
@@ -268,6 +271,7 @@
       "stats",
       "sugarK",
       "switch",
+      "tab",
       "TBS",
       "tracer",
       "transition",
@@ -757,7 +761,7 @@
     },
     {
       "fullPath": "presets/4.3/other/rod-freestyle-config-tab.txt",
-      "hash": "bf64f0f00108bc0702252198ca98710e79ffe337936ce759cdf07a3e801e06c8",
+      "hash": "92dbf8a609ae03f91e366ee036def6358176aa5750a2278cfae330b1201adcdb",
       "title": "Rod Configuration Tab Settings",
       "firmware_version": [
         "4.3"
@@ -765,13 +769,12 @@
       "category": "OTHER",
       "status": "COMMUNITY",
       "keywords": [
-        "blackbox",
-        "logging",
-        "log",
-        "disable",
-        "sugarK"
+        "configuration",
+        "config",
+        "tab",
+        "rodtodd"
       ],
-      "author": "rodtodd",
+      "author": "RodTodd",
       "priority": 0
     },
     {

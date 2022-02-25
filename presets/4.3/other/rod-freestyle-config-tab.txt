@@ -6,19 +6,17 @@
 #$ AUTHOR: RodTodd
 #$ DESCRIPTION: Base Settings for 4.3 Configuration Tab
 
-
+#$ OPTION_GROUP BEGIN: Name Options
 #$ OPTION BEGIN (UNCHECKED): Name STORMAGEDDON
 set name = STORMAGEDDON
 #$ OPTION END
-
 #$ OPTION BEGIN (UNCHECKED): Name STORM APEX
 set name = STORM APEX
 #$ OPTION END
-
 #$ OPTION BEGIN (UNCHECKED): Name STORM APEX DC
 set name = STORM APEX DC
 #$ OPTION END
-
+#$ OPTION_GROUP END
 # feature
 feature -AIRMODE
 
